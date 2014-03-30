@@ -1,7 +1,7 @@
 {
   "name": "compact-uuid",
   "version": "0.0.0",
-  "description": "",
+  "description": "Generates UUIDs that fit into MySQL binary(16) fields",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
