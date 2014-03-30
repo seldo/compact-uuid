@@ -1,6 +1,6 @@
 {
   "name": "compact-uuid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Generates UUIDs that fit into MySQL binary(16) fields",
   "main": "index.js",
   "scripts": {
